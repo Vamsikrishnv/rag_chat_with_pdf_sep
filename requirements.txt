@@ -1,0 +1,11 @@
+langchain>=0.2.10
+langchain-community>=0.2.10
+langchain-openai>=0.1.7
+langchain-huggingface>=0.1.0
+langchain-text-splitters>=0.2.2
+faiss-cpu>=1.8.0
+pypdf>=4.2.0
+python-dotenv>=1.0.1
+sentence-transformers>=3.0.1
+rich>=13.7.1
+pandas>=2.0.0
